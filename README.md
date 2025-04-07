@@ -29,7 +29,7 @@ A Streamlit application that allows you to chat with your documents (PDF, TXT, C
 
 1. Clone the repository:
 ```bash
-git clone [https://github.com/yourusername/chat-with-your-data.git](https://github.com/mahmoudsaadzamel/Chat-with-Your-Data-_RAG-System)
+git clone [https://github.com/mahmoudsaadzamel/Chat-with-Your-Data-_RAG-System)]
 cd chat-with-your-data
 
 
